@@ -25,4 +25,37 @@ Consists of five parts:
 Demo:
 
  brain-even:
-<a href="https://asciinema.org/a/556680" target="_blank"><img src="https://asciinema.org/a/556680.svg" /></a>
+ 
+<a href="https://asciinema.org/a/KsxAvVLowlNI1E3gAA2w4r5e5" target="_blank"><img src="https://asciinema.org/a/KsxAvVLowlNI1E3gAA2w4r5e5.svg" /></a>
+
+
+
+
+
+ brain-calc:
+
+<a href="https://asciinema.org/a/xLjfTIgaa8bzGjgc71UHDhW9p" target="_blank"><img src="https://asciinema.org/a/xLjfTIgaa8bzGjgc71UHDhW9p.svg" /></a>
+
+
+
+
+ brain-gcd:
+ 
+<a href="https://asciinema.org/a/qH1rUEphkk25Bgcew8mGMRmUw" target="_blank"><img src="https://asciinema.org/a/qH1rUEphkk25Bgcew8mGMRmUw.svg" /></a>
+
+
+
+
+ brain-progression:
+ 
+<a href="https://asciinema.org/a/1n4LEiP1SizyOHK6uOVs9Yn9y" target="_blank"><img src="https://asciinema.org/a/1n4LEiP1SizyOHK6uOVs9Yn9y.svg" /></a>
+
+
+
+
+ brain-prime:
+ 
+<a href="https://asciinema.org/a/eh3qLJE43mmQUblCfbZCx9UmE" target="_blank"><img src="https://asciinema.org/a/eh3qLJE43mmQUblCfbZCx9UmE.svg" /></a>
+
+ 
+
