@@ -1,6 +1,4 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/AleksandrZhuravlevv/python-project-49/workflows/hexlet-check/badge.svg)](https://github.com/AleksandrZhuravlevv/python-project-49/actions)
-<<<<<<< HEAD
-<script id="asciicast-556680" src="https://asciinema.org/a/556680.js" async></script>
-=======
->>>>>>> 56308e2a800ccfea64edf5ef395c76755f721a6e
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I'm+Aleksandr;And+this+is+my+first+project" alt="Typing SVG" /></a>
+<a href="https://asciinema.org/a/556680" target="_blank"><img src="https://asciinema.org/a/556680.svg" /></a>
