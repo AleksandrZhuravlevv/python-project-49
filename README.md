@@ -11,7 +11,7 @@ Name:
 
 
 
-Consists of five parts:
+Consists of five parts/comands:
 1. brain-even
 2. brain-calc
 3. brain-gcd
