@@ -1,9 +1,4 @@
-.venv
-venv
-dist
 __pycache__
-*.pyc
-new_venv
-setup.cfg
-poetry.lock
-__init__.py
+.venv
+*.lock
+dist
