@@ -16,7 +16,6 @@ def generate_progression():
 
 
 def get_game():
-
     progression = generate_progression()
     hide_random_num = randint(0, len(progression) - 1)
     right_answer = str(progression[hide_random_num])

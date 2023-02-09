@@ -9,7 +9,6 @@ def is_even(random_num):
 
 def get_game():
     random_num = randint(1, 100)
-
     if is_even(random_num):
         right_answer = 'yes'
     else:
